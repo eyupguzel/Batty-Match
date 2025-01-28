@@ -1,5 +1,6 @@
 # Batty Match
-## This project is not completed !
+> [!NOTE]
+> This project is not completed!
 ### Getting Started
 * Install Unity 6 (6000.0.24f1) or higher
 
