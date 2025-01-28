@@ -1,0 +1,58 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider files
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS generated files
+.DS_Store
+*.swp
+*.lock
+*.tmp
+*.bak
+*.old
+Thumbs.db
+
+# Package files
+*.unitypackage
+*.package
+*.aab
+
+# TextMesh Pro
+[Tt]extMesh*Pro/
+
+# Asset Store tools
+[Aa]sset[Ss]tore/
+
+# Collaborate files
+/[Uu]ser[Ss]ettings/
+
+# Crash and error logs
+sysinfo.txt
+*.crash
+
+# Shader caches
+/[Pp]roject[Ss]ettings/ShaderCache.db
+/[Pp]roject[Ss]ettings/ShaderCache/
+
+# Custom logs and debugging
+*.log
+
+# Additional folders or files you want to ignore
+*.apk
+*.ipa
